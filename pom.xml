@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu</groupId>
 	<artifactId>eai-module-glue-pdf-viewer</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>eai-module-glue-pdf-viewer</name>
 	<parent>
 		<groupId>be.nabu</groupId>
